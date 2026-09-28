@@ -102,7 +102,8 @@ window.MISAD = {
         { edition: "2026–27", pdf: "lolad/lolad-2026-27.pdf", cover: "lolad/lolad-2026-27-cover.jpg", note: "" },
      Without a cover image, the site draws a simple cover automatically. */
   lolad: [
-    {edition: "2025–26", pdf: "lolad/lolad-12-2025.pdf", cover: "lolad/lolad-12-2025-cover.jpg", note: "Lolad (12th Issue, 2025)"}
+       {edition: "2026–27", pdf: "lolad/lolad-13-2026.pdf", cover: "lolad/lolad-13-2026-cover.jpg", note: "Lolad (13th Issue, 2026)"}
+       {edition: "2025–26", pdf: "lolad/lolad-12-2025.pdf", cover: "lolad/lolad-12-2025-cover.jpg", note: "Lolad (12th Issue, 2025)"}
   ],
 
   /* ---------- Executive body ----------
