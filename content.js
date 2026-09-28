@@ -126,13 +126,22 @@ window.MISAD = {
      rename, add or remove them to match MiSAD's actual constitution. */
   executive: [
     {
-      tenure: "2025–26",
+      tenure: "2026–27",
       members: [
-        { role: "President", name: "Hariprasad Doley", photo: "" },
-        { role: "Vice President", name: "", photo: "" },
-        { role: "General Secretary", name: "", photo: "" },
-        { role: "Assistant General Secretary", name: "", photo: "" },
-        { role: "Treasurer", name: "", photo: "" }
+        { role: "President", name: "Dhirty Raj Narah", photo: "" },
+        { role: "Vice President", name: "Indrajit Pegu", photo: "" },
+        { role: "General Secretary", name: "Jumi Mili", photo: "" },
+        { role: "Assistant General Secretary", name: "Dharitri Doley", photo: "" },
+        { role: "Joint Secretary", name: "Kritika Doley", photo: "" }
+        { role: "Treasurer", name: "Dikhov Pegu", photo: "" }
+        { role: "Literary Secretary", name: "Swimi Taye", photo: "" }
+        { role: "Literary Secretary", name: "Kuldeep Doley", photo: "" }
+        { role: "Sports Secretary", name: "Parmananda Pegu", photo: "" }
+        { role: "Cultural Secretary", name: "Julee Patir", photo: "" }
+        { role: "Cultural Secretary", name: "Bhabesh Doley", photo: "" }
+        { role: "Social Media Coordinator", name: "Momita Patir", photo: "" }
+        { role: "Social Media Coordinator", name: "Sarvananda Pegu", photo: "" }
+        { role: "Coordinator", name: "Madhurottam Kaman", photo: "" }
       ]
     }
   ]
