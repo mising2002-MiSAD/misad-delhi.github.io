@@ -81,17 +81,27 @@ window.MISAD = {
 
      The entries marked  sample: true  are placeholders. Delete them
      once real photos are added. */
-  gallery: [
-    { src: "images/samples/sample-01.svg", caption: "Kangkin Kébang", programme: "kangkin-kebang", year: "2025", sample: true },
-    { src: "images/samples/sample-02.svg", caption: "Ali A:yé Lígang", programme: "ali-aye-ligang", year: "2025", sample: true },
-    { src: "images/samples/sample-03.svg", caption: "Agom Longé", programme: "agom-longe", year: "2025", sample: true },
-    { src: "images/samples/sample-04.svg", caption: "Kangkin Kébang", programme: "kangkin-kebang", year: "2025", sample: true },
-    { src: "images/samples/sample-05.svg", caption: "Language Workshop", programme: "language-workshops", year: "2025", sample: true },
-    { src: "images/samples/sample-06.svg", caption: "Ali A:yé Lígang", programme: "ali-aye-ligang", year: "2025", sample: true },
-    { src: "images/samples/sample-07.svg", caption: "Student-Oriented Event", programme: "student-events", year: "2025", sample: true },
-    { src: "images/samples/sample-08.svg", caption: "Agom Longé", programme: "agom-longe", year: "2025", sample: true },
-    { src: "images/samples/sample-09.svg", caption: "Ali A:yé Lígang", programme: "ali-aye-ligang", year: "2025", sample: true },
-    { src: "images/samples/sample-10.svg", caption: "Language Workshop", programme: "language-workshops", year: "2025", sample: true }
+ gallery: [
+    { src: "images/gallery/kangkin-kebang-2025-01.jpg", caption: "Kangkin Kébang 2025", programme: "kangkin-kebang", year: "2025" },
+    { src: "images/gallery/kangkin-kebang-2025-02.jpg", caption: "Kangkin Kébang 2025", programme: "kangkin-kebang", year: "2025" },
+    { src: "images/gallery/kangkin-kebang-2025-03.jpg", caption: "Kangkin Kébang 2025", programme: "kangkin-kebang", year: "2025" },
+    { src: "images/gallery/kangkin-kebang-2025-04.jpg", caption: "Kangkin Kébang 2025", programme: "kangkin-kebang", year: "2025" },
+    { src: "images/gallery/kangkin-kebang-2025-05.jpg", caption: "Kangkin Kébang 2025", programme: "kangkin-kebang", year: "2025" },
+    { src: "images/gallery/kangkin-kebang-2025-06.jpg", caption: "Aipé A:langka, Kangkin Kébang 2025", programme: "kangkin-kebang", year: "2025" },
+    { src: "images/gallery/misad-23-years.jpg", caption: "Celebrating 23 years of MiSAD", programme: "", year: "2025" },
+    { src: "images/gallery/home-on-a-plate.jpg", caption: "Home on a plate", programme: "", year: "" },
+    { src: "images/gallery/busu-dima-silver-jubilee-2026.jpg", caption: "Busu Dima Silver Jubilee celebration, JNU", programme: "", year: "2026" },
+    { src: "images/gallery/paat-kai-2025-01.jpg", caption: "Paat Kai 2025", programme: "", year: "2025" },
+    { src: "images/gallery/paat-kai-2025-02.jpg", caption: "Paat Kai 2025", programme: "", year: "2025" },
+    { src: "images/gallery/aipe-alangka-01.jpg", caption: "Aipé Alangka", programme: "", year: "" },
+    { src: "images/gallery/aipe-alangka-02.jpg", caption: "Aipé Alangka", programme: "", year: "" },
+    { src: "images/gallery/aipe-alangka-03.jpg", caption: "Aipé Alangka", programme: "", year: "" },
+    { src: "images/gallery/aipe-alangka-04.jpg", caption: "Aipé Alangka", programme: "", year: "" },
+    { src: "images/gallery/cultural-performance-01.jpg", caption: "Cultural performance", programme: "", year: "" },
+    { src: "images/gallery/misad-meeting-01.jpg", caption: "MiSAD members", programme: "", year: "" },
+    { src: "images/gallery/misad-meeting-02.jpg", caption: "MiSAD members", programme: "", year: "" },
+    { src: "images/gallery/misad-felicitation-01.jpg", caption: "MiSAD members", programme: "", year: "" },
+    { src: "images/gallery/tribute-eternal-voice-of-assam.jpg", caption: "Tribute: The Eternal Voice of Assam", programme: "", year: "" }
   ],
 
   /* ---------- Lolad (annual souvenir) ----------
